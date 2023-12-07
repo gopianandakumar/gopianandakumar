@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gopianandakumar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python with django
+- 🌱 I’m currently working professional python with django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gopianandakumar@gmail.com
 
